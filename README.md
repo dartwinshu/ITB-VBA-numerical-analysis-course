@@ -40,4 +40,4 @@ This repository contains my portfolio of numerical method using VBA in excel exp
 
 ## Final Task
 
-*All in one numerical analysis methods for finding the solutions of the given question in 
+*All in one numerical analysis methods for finding the solutions of the given question in *

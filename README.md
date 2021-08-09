@@ -71,9 +71,20 @@ This repository contains my portfolio of numerical analysis using VBA in excel e
 
 4. **Numerical Integration**
 - Trapezoid Method
+
+![image](https://user-images.githubusercontent.com/88588162/128684223-7d7dd4c3-3207-44ba-a323-3c5725b2d012.png)
+
 - Midpoint Method
+
+![image](https://user-images.githubusercontent.com/88588162/128686471-9c0e9b33-ff40-4ff5-944f-53ceb3327bb8.png)
+
 - 1/3 Simpson Method
+
+![image](https://user-images.githubusercontent.com/88588162/128684364-c2dc7365-ab0e-4c37-9b89-bee2cf370aa8.png)
+
 - 3/8 Simpson Method
+
+![image](https://user-images.githubusercontent.com/88588162/128684392-8c0795b8-4a8d-4113-9dcb-bf7df7b4c560.png)
 
 5. **Solution of Ordinary Differential Equations**
 - Euler Method
@@ -86,7 +97,9 @@ This repository contains my portfolio of numerical analysis using VBA in excel e
 
 ## Final Task
 
-*All in one numerical analysis methods for finding the solutions of the given question in*
+*All in one numerical analysis methods for finding the solutions of the given question in [Final Task_Numerical Analysis_ITB.pdf](https://github.com/dartwinshu/ITB-VBA-numerical-analysis-course/files/6953206/Final.Task_Numerical.Analysis_ITB.pdf)*
+
+![image](https://user-images.githubusercontent.com/88588162/128685859-4b636b3d-ba53-4e0b-aff6-0cfa877e7260.png)
 
 ## References
 1. J. Douglas Faires and Richard Burden, “Numerical Methods”, Brooks Cole Publisher, Fourth Edition, 2012 

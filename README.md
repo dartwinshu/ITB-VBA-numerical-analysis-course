@@ -1,11 +1,36 @@
-# VBA Numerical Analysis Portfolio
+# ITB VBA Numerical Analysis Course
 
-This repository contains my portfolio of numerical method using VBA in excel experience and projects practiced and completed by me in academic.
+This repository contains my portfolio of numerical analysis using VBA in excel experience, practice and final task practiced and completed by me in metallugical engineering undergraduate program, faculty of mining and petroleum engineering, Bandung Institute of Technology (ITB), Indonesia.
 
-## Modules
+## Curriculum
+1. One Variable Equation Solution
+    - Bisection Method
+    - Regula Falsi Method
+    - Fixed Point Method
+    - Newton - Raphson Method
+    - Secant Method
+2. Simultaneous Equation Solution
+    - Newton - Raphson Method
+    - Steepest Descent Method
+3. System of Linear Equations
+    - Gauss Method
+    - Gauss - Jordan Method
+4. Numerical Integration
+    - Trapezoid Method
+    - Midpoint Method
+    - 1/3 Simpson Method
+    - 3/8 Simpson Method
+5. Solution of Ordinary Differential Equations
+    - Euler Method
+    - D. Taylor Method
+    - Heun Method
+    - R-K 4 Method
+6. Numerical Solution of Partial Differential Equations
+    - Finite Difference Method
 
-### One Variable Equation Solution
+## Practice
 
+1. **One Variable Equation Solution**
 - Bisection Method
 
 ![image](https://user-images.githubusercontent.com/88588162/128624728-a64c6185-f719-4661-b663-9da5a896bd22.png)
@@ -26,8 +51,7 @@ This repository contains my portfolio of numerical method using VBA in excel exp
 
 ![image](https://user-images.githubusercontent.com/88588162/128624773-b9eb1bc8-46ff-4de3-8f28-053e04c485e7.png)
 
-### Simultaneous Equation Solution
-
+2. **Simultaneous Equation Solution**
 - Newton - Raphson Method
 
 ![image](https://user-images.githubusercontent.com/88588162/128624814-fe2403b8-7b5d-4576-8845-7eda528e7dd8.png)
@@ -37,8 +61,7 @@ This repository contains my portfolio of numerical method using VBA in excel exp
 
 ![image](https://user-images.githubusercontent.com/88588162/128624803-ff7a93ae-dc2d-44f9-806d-04b2de1a6a09.png)
 
-### System of Linear Equations
-
+3. **System of Linear Equations**
 - Gauss Method
 
 ![image](https://user-images.githubusercontent.com/88588162/128624880-0ee0ce7e-5556-450f-a4ec-2e6411fe55d3.png)
@@ -46,22 +69,19 @@ This repository contains my portfolio of numerical method using VBA in excel exp
 
 - Gauss - Jordan Method
 
-### Numerical Integration
-
+4. **Numerical Integration**
 - Trapezoid Method
 - Midpoint Method
 - 1/3 Simpson Method
 - 3/8 Simpson Method
 
-### Solution of Ordinary Differential Equations
-
+5. **Solution of Ordinary Differential Equations**
 - Euler Method
 - D. Taylor Method
 - Heun Method
 - R-K 4 Method
 
-### Numerical Solution of Partial Differential Equations
-
+6. **Numerical Solution of Partial Differential Equations**
 - Finite Difference Method
 
 ## Final Task
